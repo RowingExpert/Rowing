@@ -11,3 +11,4 @@ public class Competition extends AppCompatActivity {
         setContentView(R.layout.activity_competition);
     }
 }
+/*bngrb*/
